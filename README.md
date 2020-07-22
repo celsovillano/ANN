@@ -25,7 +25,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -64,23 +63,6 @@ Celso Villano Jr. - [@Celso Villano](https://www.linkedin.com/in/celso-villano-8
 Christian John Insular - [@Christian Insular](https://www.linkedin.com/in/christian-john-insular-59b6ab18a/) - cyinsular@up.edu.ph
 
 Project Link: [https://github.com/cvillano/ANN](https://github.com/cvillano/ANN)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
 
 
 
