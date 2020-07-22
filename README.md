@@ -4,31 +4,16 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/celsovillano/ANN">
+    <img src="images/logo.png" alt="Logo" width="256" height="256">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Artificial Neural Netowrk</h3>
 </p>
 
 
@@ -177,5 +162,3 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [forks-url]: https://github.com/celsovillano/ANN/network/members
 [stars-shield]: https://img.shields.io/github/stars/celsovillano/ANN.svg?style=flat-square
 [stars-url]: https://github.com/celsovillano/ANN/stargazers
-[issues-shield]: https://img.shields.io/github/issues/celsovillano/ANN.svg?style=flat-square
-[issues-url]: https://github.com/celsovillano/ANN/issues
