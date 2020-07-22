@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/celsovillano/ANN">
-    <img src="images/logo.png" alt="Logo" width="200" height="150">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Artificial Neural Network</h3>
