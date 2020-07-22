@@ -58,7 +58,7 @@ There are various packages that are needed to be installed in order to replicate
 <!-- CONTACT -->
 ## Contact
 
-Celso T. Villano Jr. - [@Celso_Villano(https://www.linkedin.com/in/celso-villano-890617185/) - email@example.com
+Celso T. Villano Jr. - [@Celso_Villano](https://www.linkedin.com/in/celso-villano-890617185/) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
