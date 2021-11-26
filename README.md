@@ -58,7 +58,7 @@ There are various packages that are needed to be installed in order to replicate
 <!-- CONTACT -->
 ## Contact
 
-Celso Villano Jr. - [@Celso Villano](https://www.linkedin.com/in/celso-villano-890617185/) - celso.villano.bp@gmail.com
+Celso Villano Jr. - [@Celso Villano](https://www.linkedin.com/in/celso-villano-890617185/) - celso.villano.bpi@gmail.com
 
 Christian John Insular - [@Christian Insular](https://www.linkedin.com/in/christian-john-insular-59b6ab18a/) - cyinsular@up.edu.ph
 
